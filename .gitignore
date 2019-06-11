@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/CppLearn/x64/Debug
+/x64/Debug
+/CppLearn.VC.VC.opendb
+/CppLearn.VC.db
